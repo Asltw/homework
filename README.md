@@ -54,3 +54,5 @@ gson
 joda-tim
 junit
 ```
+#### 最终测试类(FinalTest)
+> 测试方法：testFinally()
